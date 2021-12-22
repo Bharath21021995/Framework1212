@@ -3,9 +3,11 @@ package com.sample;
 public class GitClass2 {
 	
 	private void sysout() {
-		// TODO Auto-generated method stub
 
+		System.out.println("A code");
 	}
+
+	
 	
 	private void sysout1() {
 		// TODO Auto-generated method stub
